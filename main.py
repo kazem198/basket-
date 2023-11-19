@@ -55,6 +55,7 @@ while True:
         if len(posListX) < 10:
             # Prediction
             # X values 330 to 430  Y 590
+            # we need to find the value of x when the value of y is is 590
             a = A
             b = B
             c = C - 590
